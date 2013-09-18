@@ -1,0 +1,15 @@
+/Compiler-Tools-Transpiler-*
+/.build
+/_build_params
+/Build
+!Build/
+!META.json
+!LICENSE
+local
+*~
+Makefile
+_build
+blib
+MYMETA.json
+MYMETA.yml
+
